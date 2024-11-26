@@ -43,7 +43,7 @@ footer {
   }
   .left > .card-text {
     position: relative;
-    width: 90%;
+    width: 85%;
   }
   /* Format Right Panel */
   .right > img {
@@ -57,12 +57,12 @@ footer {
   }
   .right > p {
     position: relative;
-    width: 90%;
+    width: 85%;
     margin-right: 0;
   }
 }
 /* TABLET and IPAD */
-@media (min-width: 581px) and (max-width:1200px){
+@media (min-width: 481px) and (max-width:1200px){
   /* Get Elements Inline */
   .left {
     display: inline-block;
@@ -86,7 +86,7 @@ footer {
   }
 }
 /* MOBILE */
-@media (max-width: 580px){
+@media (max-width: 480px){
   /* Display Elements as Blocks */
   .left {
     display: block;
