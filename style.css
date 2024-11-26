@@ -43,7 +43,7 @@ footer {
   }
   .left > .card-text {
     position: relative;
-    width: 89%;
+    width: 95%;
   }
   /* Format Right Panel */
   .right > img {
@@ -57,7 +57,7 @@ footer {
   }
   .right > p {
     position: relative;
-    width: 89%;
+    width: 95%;
     margin-right: 0;
   }
 }
