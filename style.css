@@ -33,7 +33,7 @@ footer {
   }
   /* Format Left Panel */
   .left > img {
-    width: 40%;
+    width: 50%;
     height: auto;
     float: left;
     padding-right: 3%;
@@ -47,7 +47,7 @@ footer {
   }
   /* Format Right Panel */
   .right > img {
-    width: 40%;
+    width: 50%;
     height: auto;
     float: left;
     padding-right: 3%;
